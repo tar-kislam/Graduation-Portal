@@ -1,4 +1,4 @@
-# Graduation-Portal (Gradiation Project)
+# Graduation-Portal (Graduation Project)
 Portal for Grad. Students -  
 Frontend (HTML,CSS,Springboot,Javascript,Thymeleaf) 
 Backend(Java Springboot, H2 Database)
